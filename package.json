@@ -1,5 +1,5 @@
 {
-  "name": "postcss-unit2unit",
+  "name": "postcss-unit-to-unit",
   "version": "0.0.1",
   "description": "PostCSS plugin transform special unit to another unit",
   "keywords": [

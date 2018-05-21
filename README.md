@@ -1,5 +1,6 @@
 ## postcss-unit2unit
 [![Build Status](https://travis-ci.org/Gavin-Gong/postcss-unit2unit.svg?branch=master)](https://travis-ci.org/Gavin-Gong/postcss-unit2unit)
+[![npm version](https://badge.fury.io/js/postcss-unit-to-unit.svg)](https://badge.fury.io/js/postcss-unit-to-unit)
 
 postcss plugin for convert the unit to another unit
 
