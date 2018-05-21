@@ -23,7 +23,7 @@ $ npm i Gavin-Gong/postcss-unit2unit -D
 ### `options.from`, default as `px`
 `String`, the unit should be replaced, e.g. 'rem'
 
-###`options.to`, default as `px`
+### `options.to`, default as `px`
 `String`, the unit should be replace with, e.g. 'rem'
 
 ###  `options.multiple`, default as `1`
