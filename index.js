@@ -12,7 +12,7 @@ module.exports = postcss.plugin('postcss-unit2unit', function (opts = {}) {
     function replace(str) {
         if (!str) return str;
 
-        const regexpStr = `([0-9.]+)(${opts.from})$`;
+        const regexpStr = `([0-9.]+)(${opts.from})`;
         const regexp = new RegExp(regexpStr, 'gi');
 
         return str.replace(new RegExp(regexp), (match, num) => {
