@@ -1,6 +1,6 @@
 const postcss = require('postcss');
 
-module.exports = postcss.plugin('postcss-unit2unit', function (opts = {}) {
+module.exports = postcss.plugin('postcss-unit-to-unit', function (opts = {}) {
     opts = Object.assign({}, {
         from: 'px',
         to: 'px',
