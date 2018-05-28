@@ -1,5 +1,5 @@
 ## postcss-unit2unit
-[![Build Status](https://travis-ci.org/Gavin-Gong/postcss-unit2unit.svg?branch=master)](https://travis-ci.org/Gavin-Gong/postcss-unit2unit)
+[![Build Status](https://travis-ci.org/Gavin-Gong/postcss-unit-to-unit.svg?branch=master)](https://travis-ci.org/Gavin-Gong/postcss-unit-to-unit)
 [![npm version](https://badge.fury.io/js/postcss-unit-to-unit.svg)](https://badge.fury.io/js/postcss-unit-to-unit)
 
 postcss plugin for convert the unit to another unit
@@ -7,7 +7,7 @@ postcss plugin for convert the unit to another unit
 ## Install
 
 ```
-$ npm i Gavin-Gong/postcss-unit2unit -D
+$ npm i postcss-unit-to-unit -D
 ```
 
 ## Options
