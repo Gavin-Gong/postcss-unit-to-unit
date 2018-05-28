@@ -1,6 +1,6 @@
 {
   "name": "postcss-unit-to-unit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PostCSS plugin transform special unit to another unit",
   "keywords": [
     "postcss",
@@ -13,11 +13,11 @@
   ],
   "author": "Gavin Gong <kefengong@gmail.com>",
   "license": "MIT",
-  "repository": "Gavin Gong/postcss-unit2unit",
+  "repository": "Gavin Gong/postcss-unit-to-unit",
   "bugs": {
-    "url": "https://github.com/Gavin-Gong/postcss-unit2unit/issues"
+    "url": "https://github.com/Gavin-Gong/postcss-unit-to-unit/issues"
   },
-  "homepage": "https://github.com/Gavin-Gong/postcss-unit2unit",
+  "homepage": "https://github.com/Gavin-Gong/postcss-unit-to-unit",
   "dependencies": {
     "postcss": "^6.0.16"
   },
