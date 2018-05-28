@@ -1,4 +1,4 @@
-## postcss-unit2unit
+## postcss-unit-to-unit
 [![Build Status](https://travis-ci.org/Gavin-Gong/postcss-unit-to-unit.svg?branch=master)](https://travis-ci.org/Gavin-Gong/postcss-unit-to-unit)
 [![npm version](https://badge.fury.io/js/postcss-unit-to-unit.svg)](https://badge.fury.io/js/postcss-unit-to-unit)
 
