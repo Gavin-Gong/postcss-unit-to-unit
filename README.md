@@ -11,7 +11,7 @@ $ npm i postcss-unit-to-unit -D
 ```
 
 ## Options
-`postcss-unit2unit` has some options to config.
+`postcss-unit-to-unit` has some options to config.
 ```
 {
     from: 'rpx',
@@ -40,7 +40,7 @@ e.g. `{ margin: 10px; /* skip me */ }`, if set `'skip me'`, plugin will not conv
 ## Usage
 ```
 const postcss = require('postcss');
-const plugin = require('postcss-unit2unit');
+const plugin = require('postcss-unit-to-unit');
 
 postcss([plugin({
     // pass your options
