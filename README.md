@@ -38,15 +38,15 @@ $ npm i postcss-unit-to-unit -D
 e.g. `{ margin: 10px; /* skip me */ }`, if set `'skip me'`, plugin will not convert this rule
 
 ## Usage
-```
+``` javascript
 const postcss = require('postcss');
 const plugin = require('postcss-unit-to-unit');
 
 postcss([plugin({
-    // pass your options
+  // pass your options
 })]).process(/* your css */)
     .then(result => {
-        // do
+        // do something
     });
 ```
 
